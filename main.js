@@ -27,9 +27,9 @@ if (typeof str === 'string') {
 }
 
 // 5. Crie um script que declare uma variável e verifique se o seu valor é um booleano. Se for, exiba a mensagem "É um booleano", caso contrário, exiba a mensagem "Não é um booleano".
-const myVar = "true";
+const myVar1 = "true";
 
-if (typeof myVar === 'boolean') {
+if (typeof myVar1 === 'boolean') {
   alert("É um booleano")
 } else {
   alert("Não é um booleano")
@@ -48,7 +48,7 @@ alert(var1 / var2);
 
 // 9. Crie um script que declare uma variável e verifique se o seu valor é um número par. Se for, exiba a mensagem "É um número par", caso contrário, exiba a mensagem "Não é um número par".
 // 10. Crie um script que declare uma variável e verifique se o seu valor é um número ímpar. Se for, exiba a mensagem "É um número ímpar", caso contrário, exiba a mensagem "Não é um número ímpar".
-const myVar = 7;
+const myVar2 = 7;
 
-const oddOrEven = (myVar % 2 === 0) ? "É um número par" : "É um número ímpar";
+const oddOrEven = (myVar2 % 2 === 0) ? "É um número par" : "É um número ímpar";
 alert(oddOrEven)
