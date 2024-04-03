@@ -1,18 +1,18 @@
 // 1. Crie um script que exiba a mensagem "Hello World!" em um alerta no navegador.
-// console.log("Hello World!");
+// alert("Hello World!");
 
 // 2. Crie um script que declare duas variáveis e exiba o resultado da soma entre elas.
 // const one = 1;
 // const two = 2;
-// console.log(one + two);
+// alert(one + two);
 
 // 3. Crie um script que declare uma variável e verifique se o seu valor é um número. Se for, exiba a mensagem "É um número", caso contrário, exiba a mensagem "Não é um número".
 // const isANum = 5;
 
 // if (!isNaN(isANum)) {
-//   console.log("É um número");
+//   alert("É um número");
 // } else {
-//   console.log("Não é um número");
+//   alert("Não é um número");
 // }
 
 //     💡 Para saber o tipo de dado você pode usar o operador `typeof`
@@ -21,18 +21,18 @@
 // const str = 5;
 
 // if (typeof str === 'string') {
-//   console.log("É uma string")
+//   alert("É uma string")
 // } else {
-//   console.log("Não é uma string")
+//   alert("Não é uma string")
 // }
 
 // 5. Crie um script que declare uma variável e verifique se o seu valor é um booleano. Se for, exiba a mensagem "É um booleano", caso contrário, exiba a mensagem "Não é um booleano".
 // const myVar = "true";
 
 // if (typeof myVar === 'boolean') {
-//   console.log("É um booleano")
+//   alert("É um booleano")
 // } else {
-//   console.log("Não é um booleano")
+//   alert("Não é um booleano")
 // };
 
 // 6. Crie um script que declare duas variáveis e exiba o resultado da subtração entre elas.
