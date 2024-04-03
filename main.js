@@ -2,7 +2,9 @@
 // console.log("Hello World!");
 
 // 2. Crie um script que declare duas variáveis e exiba o resultado da soma entre elas.
-
+const one = 1;
+const two = 2;
+console.log(one + two);
 
 // 3. Crie um script que declare uma variável e verifique se o seu valor é um número. Se for, exiba a mensagem "É um número", caso contrário, exiba a mensagem "Não é um número".
 
